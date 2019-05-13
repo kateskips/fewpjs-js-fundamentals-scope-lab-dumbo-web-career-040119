@@ -3,6 +3,7 @@
 function myAnimal() {
   return animal;
 }
+
 let animal = "cat"
 
 function yourAnimal() {
