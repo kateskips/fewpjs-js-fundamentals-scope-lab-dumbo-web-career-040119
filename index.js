@@ -1,4 +1,5 @@
 let animal = "dog";
+let yourAnimal = "cat"
 
 function myAnimal() {
   return animal;
