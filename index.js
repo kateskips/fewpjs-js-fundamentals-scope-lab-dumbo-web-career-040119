@@ -1,10 +1,9 @@
-
+let animal = "cat";
 
 function myAnimal() {
   return animal;
 }
 
-let animal = "cat"
 
 function yourAnimal() {
   // How can we make sure that this function
@@ -12,6 +11,8 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal;
 }
+
+
 
 function add2(n) {
   return n + two
